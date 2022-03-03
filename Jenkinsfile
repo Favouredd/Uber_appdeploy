@@ -1,2 +1,2 @@
 @Library('EUlineshared-library') _
-uberApp ''
+uberApp 'https://github.com/Favouredd/uberAppdeploy'
